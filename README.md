@@ -40,7 +40,7 @@ setx OPENROUTER_API_KEY "your_key_here"
 ## ▶ Run the app
 
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 Upload a PDF → get a bullet-point summary 
