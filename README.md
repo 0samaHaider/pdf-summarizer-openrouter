@@ -44,5 +44,3 @@ streamlit run src/app.py
 ```
 
 Upload a PDF → get a bullet-point summary 
-* Add a **project structure section**
-* Write a **GitHub-friendly version with badges**
