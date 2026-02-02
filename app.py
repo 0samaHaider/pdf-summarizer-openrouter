@@ -11,7 +11,7 @@ st.set_page_config(page_title="PDF Summarizer (LLM)", layout="wide")
 st.title("📄 PDF Summarizer (LLM-powered)")
 st.write("Upload a PDF and get a bullet-point summary using an LLM.")
 
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = 'sk-or-v1-437e2'
 
 if not OPENROUTER_API_KEY:
     st.error("❌ OPENROUTER_API_KEY not found in environment variables.")
